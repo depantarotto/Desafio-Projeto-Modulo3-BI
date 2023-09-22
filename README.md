@@ -10,3 +10,4 @@ Desafio de projeto módulo 3 de Power BI
 - Excluído colunas da tabela DEPT_LOCATIONS
 - Alterado campo SALARY da tabela EMPLOYEE para duas casas decimais
 - Renomeando colunas para facilitar o entendimento
+- Separado coluna de endereço
