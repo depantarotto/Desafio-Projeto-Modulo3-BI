@@ -15,5 +15,4 @@ Desafio de projeto módulo 3 de Power BI
 - Substituir coluna de Sexo: F por Feminino e M por Masculino
 - Mesclado consultas EMPLOYEE e DEPARTAMENT
 - Mesclado consultas PROJECT e DEPARTAMENT
-- Item 14: O Mesclar faz a junção de acordo com a correspondencia de cada consulta formando apenas linha distintas. A opção de Acrescentar duplica gera uma Consulta com cada linha das consultas originais
-- 
+- Item 14: O Mesclar faz a junção de acordo com a correspondencia de cada consulta formando apenas linhas distintas. A opção de Acrescentar gera uma Consulta com cada linha das consultas originais, formando duplicidade.
